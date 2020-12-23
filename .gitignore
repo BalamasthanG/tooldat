@@ -1,0 +1,8 @@
+
+*.ods
+*.log
+.classpath
+.project
+.settings
+target
+src/main/java/tool/dat/tooldat/DatValidater.java
